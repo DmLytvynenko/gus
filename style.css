@@ -63,7 +63,7 @@ body {
     height: 44px;
     background: #798a94;
     border: none;
-
+    cursor: pointer;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-size: 16px;
